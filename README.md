@@ -9,5 +9,7 @@ Now launch the JAR with ```java -jar ChromeUserPicker.jar```.
 
 ### Launch args
 ```-c```: Run through configuration
+
 ```-h```: Shows help menu
+
 ```-d```: Deletes all stored profiles
